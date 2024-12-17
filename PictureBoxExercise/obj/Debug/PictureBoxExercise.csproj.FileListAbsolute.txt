@@ -1,0 +1,10 @@
+C:\Users\2024\Windows Forms\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.AssemblyReference.cache
+C:\Users\2024\Windows Forms\PictureBoxExercise\obj\Debug\PictureBoxExercise.Form1.resources
+C:\Users\2024\Windows Forms\PictureBoxExercise\obj\Debug\PictureBoxExercise.Properties.Resources.resources
+C:\Users\2024\Windows Forms\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.GenerateResource.cache
+C:\Users\2024\Windows Forms\PictureBoxExercise\obj\Debug\PictureBoxExercise.csproj.CoreCompileInputs.cache
+C:\Users\2024\Windows Forms\PictureBoxExercise\bin\Debug\PictureBoxExercise.exe.config
+C:\Users\2024\Windows Forms\PictureBoxExercise\bin\Debug\PictureBoxExercise.exe
+C:\Users\2024\Windows Forms\PictureBoxExercise\bin\Debug\PictureBoxExercise.pdb
+C:\Users\2024\Windows Forms\PictureBoxExercise\obj\Debug\PictureBoxExercise.exe
+C:\Users\2024\Windows Forms\PictureBoxExercise\obj\Debug\PictureBoxExercise.pdb
